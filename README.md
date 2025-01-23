@@ -35,8 +35,8 @@ Das Techstarter-Programm ist eine **Vollzeit-Weiterbildung zum DevOps- und Cloud
 ## ✨ **Eine persönliche Anmerkung**  
 ==================================================================================
 
-Ich hoffe, dieses Repository bietet Ihnen einen spannenden Einblick in mein Engagement und meine Entwicklung im Bereich Technologie.  
-Fühlen Sie sich frei, es zu erkunden, und ich freue mich über Feedback! 😊  
+Ich hoffe, dieses Repository bietet Ihnen einen guten Einblick in mein Engagement und meine Entwicklung in DevOps.  
+Feel free, es zu erkunden, und ich freue mich auch über Feedback! 😊  
 
 ==================================================================================
 🔗 **Verbinden Sie sich mit mir:**  
@@ -82,7 +82,7 @@ The Techstarter program is a full-time DevOps and Cloud Engineer training provid
 ## ✨ **A Personal Note**  
 ==================================================================================
 
-I hope this repository offers you an engaging and clear view of my dedication and growth in the tech field.  
+I hope this repository offers you an engaging and clear view of my dedication and growth in the DevOps.  
 Feel free to explore and reach out if you have any feedback! 😊  
 
 ==================================================================================
