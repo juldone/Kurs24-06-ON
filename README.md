@@ -39,7 +39,7 @@ Das Techstarter-Programm ist eine **Vollzeit-Weiterbildung zum DevOps- und Cloud
 - Python & Datenbanken
 - Agile Methoden
 - Testing & Qualitätssicherung
-- Infrastructure as Code** mit **Terraform & Ansible
+- Infrastructure as Code mit Terraform & Ansible
 
 ==================================================================================
 
@@ -97,7 +97,7 @@ The Techstarter program is a full-time DevOps and Cloud Engineer training provid
 - Python & Databases
 - Agile Methodologies
 - Testing & Quality Assurance
-- Infrastructure as Code** using **Terraform & Ansible
+- Infrastructure as Code** using Terraform & Ansible
 
 ==================================================================================
 
